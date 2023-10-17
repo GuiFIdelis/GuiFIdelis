@@ -12,4 +12,4 @@
      </header>
      <img id="banner! src="banner.jpg">
      <div class ="principal">
-     
+         <h2 class="titulo
