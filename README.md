@@ -1,32 +1,36 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-      <meta cahrset="Utf-8">
-      <title>Barbearia Alura</title>
-      <link rel="stylesheet" href="style.css">
- </head>
+<head>
+    <meta charset="UTF-8">
+    <title>Barbearia Coin Master</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
- <body>
-     <header>
-        <h1 class="titulo-principal">Barbearia Alura</h1>
-     </header>
-     <img id="banner! src="banner.jpg">
-     <div class ="principal">
-         <h2 class="titulo
+<header>
+    <h1 class="titulo-principal">Barbearia Coin Master</h1>
+</header>
 
-         <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz pra o mercado o que há de melhor para o seu cabelo e barba. fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos cliente a cada dia.</p>
+<main>
+    <h2 class="titulo-centralizado">Sobre a Barbearia Coin Master</h2>
+    <p>A Barbearia é um espaço dedicado aos cuidados masculinos. Oferecemos serviços de barbearia tradicional, cortes modernos e tratamentos capilares para homens de todas as idades.</p>
 
-         <p id="missao"><em>Nossamiâo é: <strong>"proporcionar auto-estima a qualidade de clientes"</strong>.,/em></p>
+    <h3 class="titulo-centralizado" style="color: #8B4513;">Benefícios</h3>
+    <ul>
+        <li>👨‍🦱 Cortes de cabelo personalizados</li>
+        <li>✂️ Barbear clássico e moderno</li>
+        <li>
+            💆 Tratamentos faciais e capilares
+            <ul>
+                <li>🧖 Limpeza de pele</li>
+                <li>💦 Hidratação capilar</li>
+                <li>🎨 Coloração de barba</li>
+            </ul>
+        </li>
+        <li>👨‍🔧 Profissionais experientes e qualificados</li>
+        <li>🏠 Ambiente acolhedor e confortável</li>
+    </ul>
+</main>
 
-         <p>Oferecemos  profissionais experientes e antenados  ás mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantido qualidade e satisfação dos nossos clientes.</p>
-    </div>
-
-    <div class="benefícios"
-         <h3 class="titulo-centralizado!>Benefícios</h3>
-
-         <ul>
-            <li class="itens">Atendimentos aos Clientes</li>
-            <li class="itens"
-            <li class="itens"
-            <li class="itens"
-
+</body>
+</html>
