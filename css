@@ -1,0 +1,48 @@
+/* Estilos para o corpo da página */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('https://th.bing.com/th/id/R.35baafa5f826acffa0a91909282efb1f?rik=gwSvyeJliUEvyg&pid=ImgRaw&r=0');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #8B4513; /* Muda a cor do texto para marrom */
+    font-weight: bold;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; /* Adiciona borda preta ao texto */
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Estilos para os benefícios */
+h3.titulo-centralizado {
+    color: #8B4513; /* Muda a cor do texto dos benefícios para marrom */
+}
+
+ul li {
+    list-style-type: disc;
+}
